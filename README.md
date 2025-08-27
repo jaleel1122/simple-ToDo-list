@@ -2,6 +2,9 @@
 
 A simple React To-Do List app built for learning components, state, and localStorage.
 
+## Live Demo
+https://psmwpf.csb.app/
+
 ## Features
 - Add / delete tasks
 - Mark tasks complete (persisted)
@@ -17,8 +20,7 @@ A simple React To-Do List app built for learning components, state, and localSto
 - Add due dates and sorting
 - Sync with backend or cloud storage
 
-## Live Demo
-https://psmwpf.csb.app/
+
 
 
 
