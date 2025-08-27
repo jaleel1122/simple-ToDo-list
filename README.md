@@ -2,12 +2,11 @@
 
 A simple React To-Do List app built for learning components, state, and localStorage.
 
-## Live Demo
-https://xw46n9-5173.csb.app/
-
- OR
- 
+## 🚀 Live Demo  
+https://xw46n9-5173.csb.app/  
+OR  
 https://psmwpf.csb.app/
+
 
 ## Features
 - Add / delete tasks
